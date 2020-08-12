@@ -1,0 +1,14 @@
+<!--    <div className="App">
+      
+        <p>
+          Sopromat.tv
+        </p>
+        
+
+	  <Social />
+
+		<VideoPlayer { ...videoJsOptions } />
+  
+	
+	  
+    </div> -->
